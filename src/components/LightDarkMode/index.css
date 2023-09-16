@@ -1,0 +1,36 @@
+.App-Container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  padding: 24px;
+}
+
+.container {
+  text-align: center;
+  border-radius: 12px;
+  padding: 2px;
+}
+
+.dark-mode {
+  color: #ffffff;
+  background-color: #00000000;
+}
+
+.light-mode {
+  color: #00000000;
+  background-color: #ffffff;
+  border: 1px solid #00000000;
+}
+
+.heading {
+  color: #ffffff;
+  font-size: 32px;
+}
+
+.button {
+  font-size: 16px;
+  border: none;
+  padding: 16px;
+  border-radius: 8px;
+}
